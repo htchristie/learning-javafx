@@ -1,4 +1,4 @@
-#Learning JavaFX
+# Learning JavaFX
 Overview of JavaFX's basic functionalities.
 
 ## Content
