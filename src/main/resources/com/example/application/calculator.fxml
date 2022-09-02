@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane prefHeight="300.0" prefWidth="230.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.application.CalculatorController">
+   <Button layoutX="95.0" layoutY="168.0" mnemonicParsing="false" text="Sum" onAction="#onBtnSumClick"/>
+   <Label layoutX="71.0" layoutY="37.0" text="Calculate Sum">
+      <font>
+         <Font size="14.0"/>
+      </font>
+   </Label>
+   <Label layoutX="40.0" layoutY="225.0" text="Result:"/>
+   <TextField fx:id="txtFirstNum" layoutX="40.0" layoutY="82.0" promptText="First number"/>
+   <TextField fx:id="txtSecNum" layoutX="40.0" layoutY="124.0" promptText="Second number"/>
+   <Label fx:id="labelResult" layoutX="88.0" layoutY="225.0" prefHeight="17.0" prefWidth="98.0"/>
+</AnchorPane>
