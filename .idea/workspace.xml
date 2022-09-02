@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f497529-8f0f-45c0-b105-7a232c5f62be" name="Changes" comment="creating custom alert">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/CalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/application/calculator.fxml" afterDir="false" />
+    <list default="true" id="7f497529-8f0f-45c0-b105-7a232c5f62be" name="Changes" comment="setting constraints on text fields">
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Constraints.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/application/view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/application/view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/application/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/application/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/application/calculator.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/application/calculator.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662125769848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="creating a sum app">
+      <created>1662128197653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662128197653</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +162,9 @@
     <MESSAGE value="refactor packages" />
     <MESSAGE value="handling events using controller" />
     <MESSAGE value="creating custom alert" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating custom alert" />
+    <MESSAGE value="creating a sum app" />
+    <MESSAGE value="setting constraints on text fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting constraints on text fields" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -13,7 +13,7 @@
       </font>
    </Label>
    <Label layoutX="40.0" layoutY="225.0" text="Result:"/>
-   <TextField fx:id="txtFirstNum" layoutX="40.0" layoutY="82.0" promptText="First number"/>
-   <TextField fx:id="txtSecNum" layoutX="40.0" layoutY="124.0" promptText="Second number"/>
+   <TextField fx:id="txtNum1" layoutX="40.0" layoutY="82.0" promptText="First number"/>
+   <TextField fx:id="txtNum2" layoutX="40.0" layoutY="124.0" promptText="Second number"/>
    <Label fx:id="labelResult" layoutX="88.0" layoutY="225.0" prefHeight="17.0" prefWidth="98.0"/>
 </AnchorPane>
