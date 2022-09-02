@@ -3,6 +3,6 @@ module com.example.learningjavafx {
     requires javafx.fxml;
 
 
-    opens com.example.learningjavafx to javafx.fxml;
-    exports com.example.learningjavafx;
+    opens com.example.application to javafx.fxml;
+    exports com.example.application;
 }
